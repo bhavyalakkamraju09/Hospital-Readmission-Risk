@@ -1,0 +1,10 @@
+._*
+.DS_Store
+._.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+mlruns/
+models/*.pkl
+data/diabetic_data.csv
+.github/
